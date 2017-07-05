@@ -24,6 +24,7 @@
     "nice-simple-logger": "^1.0.1",
     "node-statsd": "^0.1.1",
     "typescript": "2.2.1",
+    "url": "^0.11.0",
     "wrr-pool": "^1.0.3"
   },
   "devDependencies": {
